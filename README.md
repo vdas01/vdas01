@@ -55,5 +55,5 @@ You can click the Preview link to take a look at your changes.
 <h3>Bored? Wanna see some jokes?🤨</h3>
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api?theme=random&type=horizontal" alt="Jokes Card" height="auto" width="auto"/>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5s0q878tjb4hynemcoco4zikn&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
