@@ -11,19 +11,20 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vdas01" alt="vdas01" /></a> </p>
 
-- 🔭 I’m currently working on **React Frameworks**
+- 🔭 I’m currently working on:- **React Frameworks**
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning:- **Mern Stack**
 
-- 👯 I’m looking to collaborate on **Mern Stack Projects**
+- 👯 I’m looking to collaborate on:- **Mern Stack Projects**
 
-- 📝 I regularly write articles on [https://medium.com/@vdas53073](https://medium.com/@vdas53073)
+- 📝 I regularly write articles on:- [https://medium.com/@vdas53073](https://medium.com/@vdas53073)
 
-- 💬 Ask me about **Mern,Dsa, Figma**
+- 💬 Ask me about:- **Mern,Dsa, Figma**
 
-- 📫 How to reach me **vdas53073@gmail.com**
+- 📫 How to reach me:- **vdas53073@gmail.com**
 
-- ⚡ Fun fact **Let me google🙄**
+- ⚡ Fun fact:- **Let me google🙄**
+-  ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational)
 
 # Blog posts
 
