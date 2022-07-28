@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact:- **If debugging is the process of removing software bugs then
                  programming must be the process of putting them in.🤔 **
-<img src=" https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational"/>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 # Blog posts
 
