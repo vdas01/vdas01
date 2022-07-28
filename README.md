@@ -50,3 +50,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vdas01&custom_title=Vishal's%20Activity%20Graph&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src = "https://github.com/vdas01/vdas01/blob/main/header.png"/>
