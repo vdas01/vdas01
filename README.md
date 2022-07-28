@@ -45,5 +45,5 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vdas01&show_icons=true&locale=en" alt="vdas01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vdas01&" alt="vdas01" /></p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vdas01&theme=bear)](https://git.io/streak-stats)
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=vdas01&](http://github-readme-streak-stats.herokuapp.com?user=vdas01&theme=bear)](https://git.io/streak-stats)" alt="vdas01" /></p>
+
