@@ -25,7 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **Let me google🙄**
 
-### Blogs posts
+# Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
