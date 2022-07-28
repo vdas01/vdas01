@@ -53,4 +53,5 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api&theme=random)
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api?theme=random" alt="Jokes Card" />
