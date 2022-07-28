@@ -23,7 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me:- **vdas53073@gmail.com**
 
-- ⚡ Fun fact:- **Let me google🙄**
+- ⚡ Fun fact:- **If debugging is the process of removing software bugs then
+                 programming must be the process of putting them in.🤔 **
 <img src=" https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational"/>
 
 # Blog posts
