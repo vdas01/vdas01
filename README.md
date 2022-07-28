@@ -4,7 +4,7 @@
 vdas01/vdas01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Vishal Das</h1>
+<h1 align="center"><img src = "https://github.com/vdas01/vdas01/blob/main/header.png"/></h1>
 <h3 align="center">I'm a third year CSE student learning Mern stack and also has interests in designing using Figma and recently started writing tech blogs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vdas01&label=Profile%20views&color=0e75b6&style=flat" alt="vdas01" /> </p>
@@ -50,4 +50,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vdas01&custom_title=Vishal's%20Activity%20Graph&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src = "https://github.com/vdas01/vdas01/blob/main/header.png"/>
+
