@@ -48,5 +48,5 @@ You can click the Preview link to take a look at your changes.
 
 <p margin="auto"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vdas01&theme=bear" alt="vdas01" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vdas01&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
