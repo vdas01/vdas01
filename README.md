@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me:- **vdas53073@gmail.com**
 
 - ⚡ Fun fact:- **Let me google🙄**
-- <p><img src=" https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational"/></p>
+<img src=" https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational"/>
 
 # Blog posts
 
