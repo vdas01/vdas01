@@ -55,4 +55,4 @@ You can click the Preview link to take a look at your changes.
 <h3>Bored? Wanna see some jokes?🤨</h3>
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api?theme=random&type=horizontal" alt="Jokes Card" height="auto" width="auto"/>
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=vdas53073)](https://medium.com/@omidnikrah)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
