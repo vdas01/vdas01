@@ -55,5 +55,5 @@ You can click the Preview link to take a look at your changes.
 <!-- Markdown -->
 <h3>Bored? Wanna see some jokes?🤨</h3>
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api?theme=random&type=horizontal" alt="Jokes Card" height="auto" max-width="1100" min-width="600"/>
+<img src="https://readme-jokes.vercel.app/api?theme=random&type=horizontal" alt="Jokes Card" height="auto" max-width="1100" min-width="1000"/>
 
