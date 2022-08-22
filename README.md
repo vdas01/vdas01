@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vdas01&theme=algolia" alt="vdas01" /></a> </p>
 
+<a href="https://app.daily.dev/vdas01"><img src="https://api.daily.dev/devcards/6ac9861d9eca4eed928de9095951d0a7.png?r=9u5" width="400" alt="Vishal Das's Dev Card"/></a>
+
 - 🔭 I’m currently working on:- **React Frameworks**
 
 - 🌱 I’m currently learning:- **Mern Stack**
